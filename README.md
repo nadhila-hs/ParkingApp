@@ -1,1 +1,2 @@
-# parkingAPP-in-C
+# Parking App
+Original project created by me.
